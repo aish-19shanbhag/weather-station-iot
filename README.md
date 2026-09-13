@@ -1,6 +1,6 @@
 # IoT Weather Station
 
-An Arduino-based automatic weather station that reads live environmental data — temperature, humidity, soil moisture, and rainfall — from a set of sensors and streams it over serial.
+An Arduino-based automatic weather station that reads live environmental data : temperature, humidity, soil moisture, and rainfall from a set of sensors and streams it over serial.
 
 ## Overview
 
